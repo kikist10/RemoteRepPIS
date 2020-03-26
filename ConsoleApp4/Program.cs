@@ -10,6 +10,9 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
+            Console.Write("Promjena koda");
+            //komentar
+            Console.Write("Nova verija Program.cs");
         }
     }
 }
