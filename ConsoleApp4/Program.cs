@@ -15,8 +15,14 @@ namespace ConsoleApp4
             Console.Write("Nova verija Program.cs");
         }
 
+
         void bb()
         {
+        }
+        
+        void aaa()
+        {
+            
 
         }
     }
